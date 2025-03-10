@@ -12,7 +12,7 @@ Beandolin is an instrument prototype made with Faust's physical model of a guita
 
 Designing a physical instrument is a unique task; we are essentially designing an interface for artistic creation. When we design things with straightforward utility (like a chair or a website), there is a strong restriction on the possible use cases.
 
-That isn't to say that nobody will turn a chair into [art by placing it next to the definition of chair and a picture of a chair](https://en.wikipedia.org/wiki/One_and_Three_Chairs) and challenge what a chair is, but a furniture designer doesn't really need to consider how an artist might want to transform a chair
+That isn't to say that nobody will turn a chair into [art by placing it next to the definition of chair and a picture of a chair](https://en.wikipedia.org/wiki/One_and_Three_Chairs) and challenge what a chair is, but a furniture designer doesn't really need to consider how an artist might want to transform a chair.
 
 On the other hand, when designing a musical instrument, the utility is less straightforward. So how do we find our "why?" when we can't pin down utility?
 
