@@ -4,7 +4,7 @@
 
 ![Beandolin](/beandolin.jpg)
 
-This project was the final project for Stanford MUSIC 250A: Physical Interaction Design for Music. Special thanks to everyone at CCRMA, my classmates, as well as my instructor and TA for the inspiration, motivation, and help with soldering.
+This project was the final project for Stanford MUSIC 250A: Physical Interaction Design for Music. Special thanks to everyone at CCRMA, my classmates, as well as my instructor and TA for their inspiration, motivation, and generous help.
 
 Beandolin is an instrument prototype made with Faust's physical model of a guitar and a Teensy microcontroller. A piezo microphone attached to the lid of a jar picks up on the excitation of garbanzo beans hitting when the jar is shaken. This excitation is routed through the model to play chorsds. Buttons allow for playing chords I, IV, and V, and force-sensitive resistors allow for playing bass notes corresponding to the root and fifth of the chord.
 
