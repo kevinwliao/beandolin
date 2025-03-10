@@ -55,6 +55,6 @@ Our class capped off the class by demonstrating and presenting at the CCRMA stag
 
 My demonstration went well! I stood before John Chowning and Roger Linn, with nothing but beans and a dream. Unfortunately, there's no video, so you'll have to take my word for it. There was a lot of smiles and laughter from the audience, as well as movement as a response to the physicality of my demonstration. Afterwards, I received a lot of great feedback, as well as people who wanted to try out the instrument theirselves.
 
-![Beandolin](/beandolin2.jpg)
+![Beandolin](/beandolin2.JPG)
 
 Ultimately, I accomplished what I set out to do, which was to create an instrument that exposed the physicality of sound, encouraged the instrumentalist to lean into gesture, and make people smile.
